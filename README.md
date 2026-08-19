@@ -13,22 +13,39 @@
 
 ### 🧭 About
 
-Tech lead and hands-on architect specializing in **high-load, blockchain and fintech systems**.
-I design distributed architectures and take them to production — from payment and exchange
-backends to on-chain services, KYC pipelines and the monitoring that keeps them alive.
+Tech lead and hands-on architect focused on **high-load, distributed and blockchain systems**.
+I design service architectures and take them all the way to production — from Go/Python
+backends and event-driven pipelines to on-chain services, observability and deploy automation.
 
-### ⚙️ Focus
+### ⚙️ Engineering focus
 
-- **High-load architecture** — distributed backends, sync workers, message queues, horizontal scaling
+- **Architecture** — distributed & microservice systems, event-driven design, API/gateway layers
+- **High-load** — horizontal scaling, sync workers, message queues, caching, background jobs
 - **Blockchain** — exchange backends, wallets, on-chain workers, price & analytics services
-- **Fintech** — payment systems, treasury & settlement, SBP / PayE integrations, KYC / AML
-- **Reliability** — Prometheus / Grafana / Loki, alerting, deploy automation
+- **Reliability & DevOps** — Docker, CI/CD, Prometheus / Grafana / Loki, alerting, self-hosted infra
 
-### 🛠 Tech
+### 🛠 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+</p>
 
 **Backend:** Go · Python (FastAPI / Django) · Node.js
 **Frontend:** TypeScript · React · Vue · React Native
-**Infra & Data:** Docker · PostgreSQL · Prometheus / Grafana / Loki · Supabase · Nginx
+**Infra & Data:** Docker · PostgreSQL · Redis · Prometheus / Grafana / Loki · Supabase · Nginx
 
 ### 🔬 Research
 
