@@ -1,7 +1,7 @@
 <h1 align="center">Ivan Atknin</h1>
 <p align="center">
-  <b>Tech Lead &amp; Software Architect</b> · Fintech · Crypto · Legaltech<br>
-  I design and build payment systems, crypto exchanges and data platforms end-to-end.
+  <b>Fintech Tech Lead &amp; Software Architect</b><br>
+  I design and build payment systems, crypto exchanges and KYC platforms end-to-end.
 </p>
 
 <p align="center">
@@ -13,22 +13,22 @@
 
 ### 🧭 About
 
-Tech lead and hands-on architect with a focus on **fintech, crypto and legaltech**.
-I take products from architecture to production: payment rails, exchange backends,
-KYC pipelines, monitoring and the teams that ship them.
+Fintech-focused tech lead and hands-on architect. I build the systems that move money:
+**payment rails, crypto exchanges, treasury, SBP / PayE integrations and KYC pipelines** —
+from architecture and security to production and the teams that ship them.
+
+### 💸 Fintech focus
+
+- **Payments** — SBP / PayE integrations, payment gateways, treasury & settlement
+- **Crypto** — exchange backends, wallets, on-chain workers, price & analytics services
+- **Compliance** — KYC / AML pipelines, external connectors, audit & monitoring
+- **Reliability** — Prometheus / Grafana / Loki stacks, alerting, deploy automation
 
 ### 🛠 Tech
 
 **Backend:** Go · Python (FastAPI / Django) · Node.js
 **Frontend:** TypeScript · React · Vue · React Native
 **Infra & Data:** Docker · PostgreSQL · Prometheus / Grafana / Loki · Supabase · Nginx
-
-### 🚀 What I build
-
-- **Fintech & payments** — crypto exchange, treasury, SBP / PayE integrations, KYC
-- **Backend platforms** — Go & Python microservices, sync workers, monitoring stacks
-- **Data & legaltech** — court-data parsing, analytics, document processing
-- **Web & mobile** — React / Vue front-ends, React Native, Telegram apps & bots
 
 ### 📫 Contact
 
