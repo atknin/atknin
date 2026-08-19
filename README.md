@@ -1,7 +1,7 @@
 <h1 align="center">Ivan Atknin</h1>
 <p align="center">
   <b>Fintech Tech Lead &amp; Software Architect</b><br>
-  I design and build payment systems, crypto exchanges and KYC platforms end-to-end.
+  I build payment systems, crypto exchanges and KYC platforms.
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 ### 🧭 About
 
-Fintech-focused tech lead and hands-on architect. I build the systems that move money:
-**payment rails, crypto exchanges, treasury, SBP / PayE integrations and KYC pipelines** —
+Fintech-focused tech lead and hands-on architect, working on
+**payment systems, crypto exchanges, treasury, SBP / PayE integrations and KYC pipelines** —
 from architecture and security to production and the teams that ship them.
 
 ### 💸 Fintech focus
