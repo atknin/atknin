@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:atknin.ii@gmail.com"><img src="https://img.shields.io/badge/Email-atknin.ii%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:hi@atknin.com"><img src="https://img.shields.io/badge/Email-hi%40atknin.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/atknin/"><img src="https://img.shields.io/badge/LinkedIn-atknin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -32,7 +32,7 @@ KYC pipelines, monitoring and the teams that ship them.
 
 ### 📫 Contact
 
-- ✉️ **Email:** [atknin.ii@gmail.com](mailto:atknin.ii@gmail.com)
+- ✉️ **Email:** [hi@atknin.com](mailto:hi@atknin.com)
 - 💼 **LinkedIn:** [linkedin.com/in/atknin](https://www.linkedin.com/in/atknin/)
 
 <p align="center"><i>Most of my work lives in private repositories — happy to walk through it on request.</i></p>
