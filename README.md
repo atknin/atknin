@@ -24,4 +24,4 @@ statistics and machine learning — and I bring it into the data and analytics w
 **Working with:** Go · Python (FastAPI / Django) · TypeScript · React / Vue · Kubernetes · Docker · PostgreSQL · Redis · Prometheus / Grafana / Loki · Nginx
 **Math & ML:** NumPy · pandas · scikit-learn · PyTorch · numerical simulation
 
-Reach me at [git@atknin.com](mailto:git@atknin.com) or on [LinkedIn](https://www.linkedin.com/in/atknin/). Most of what I build lives in private repos — happy to walk through it.
+Reach me at [git@atknin.com](mailto:git@atknin.com) or on [LinkedIn](https://www.linkedin.com/in/atknin/).
